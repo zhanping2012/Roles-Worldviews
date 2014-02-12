@@ -3,7 +3,7 @@ Ai Mei Setting Book
 
 艾梅设定书（I&amp;M World view settings book）
 
-###角色与背景资源库，艾梅设定书
+###角色与背景资源库
 * 创建用户即创建角色，见《虚境》用户模块介绍 http://xujing-project.github.io/
 * 创建世界观或角色，请参考AiMeiSettingBook的wiki版本https://github.com/XuJing-project/AiMeiSettingBook/wiki 
 * 每个参与者需要克隆—份角色与背景资源库。
