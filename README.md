@@ -1,6 +1,6 @@
  [Chinese Version](https://github.com/XuJing-project/Roles-Worldviews) | [English Version](https://github.com/XuJing-project/Roles-Worldviews/tree/master/en)
 
-======
+---
 
 >欢迎使用艾梅设定书 创建你的世界观或角色。
 
