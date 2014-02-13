@@ -1,5 +1,11 @@
  [Chinese Version](https://github.com/XuJing-project/Roles-Worldviews) | [English Version](https://github.com/XuJing-project/Roles-Worldviews/tree/master/en)
 
+Roles-Worldviews
+================
+
+* 这是创建虚境用户、角色、世界观的示例库。
+* 非专业开发人员从这里开始练习制作、管理游戏、虚拟世界开发所用到的素材。
+
 ---
 
 >欢迎使用艾梅设定书 创建你的世界观或角色。
