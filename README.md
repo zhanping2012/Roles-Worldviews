@@ -1,8 +1,3 @@
-Ai Mei Setting Book
-===
-
-角色与背景资源库 and 艾梅设定书（I&amp;M World view settings book）
-
 
 * 中文版
 * English Version
