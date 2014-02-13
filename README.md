@@ -30,7 +30,7 @@
 现在一起来创建角色。
 =======
 
-* 你需要先解一下什么是虚镜的[__用户模块__](https://github.com/XuJing-project/readme/wiki/%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D)。
+* 你需要先解一下什么是虚镜的[__用户__](https://github.com/XuJing-project/Roles-Worldviews/blob/master/README/%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D.md)。
 
 >现在我们了解了，参与者是以角色的身份参与到游戏开发过程中的，虽然目前的版本仍然是通过github用户参与的但未来的虚境平台会直接使用角色代替用户进行虚境项目的开发、虚境的探索，即玩家用户也是开发者。
 
