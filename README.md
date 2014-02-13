@@ -1,5 +1,5 @@
-* 中文版
-* [English Version](#English Version)
+ [Chinese Version](https://github.com/XuJing-project/Roles-Worldviews) | [English Version](https://github.com/XuJing-project/Roles-Worldviews/tree/master/en)
+
 
 ---
 
@@ -70,12 +70,8 @@
 
 * 网络空间虚拟化为艾梅设定中的地点，实化为现实世界一个地点。加密进行。
 
------
 
-<a name=" English Version" id=" English Version"></a>
 
-## This is the English Version:
 
-> Welcome to Aimé set book create your worldview, or role.
 
 
