@@ -4,7 +4,8 @@
 
 >欢迎使用艾梅设定书 创建你的世界观或角色。
 
-### 你需要选择一个世界观。
+你需要选择一个世界观。
+======
 
 * 你可以选择使用[__艾梅设定书__](/README/艾梅设定书.md)世界观 [__创建角色__](#创建角色)。
 * 你也可以创建自己的世界观，[__你需要创建自己的虚拟世界的世界观吗？__](https://github.com/XuJing-project/AiMeiSettingBook/wiki/_new)
@@ -26,7 +27,8 @@
 
 <a name="创建角色" id="创建角色"></a>
 
-### 现在一起来创建角色。
+现在一起来创建角色。
+=======
 
 * 你需要先解一下什么是虚镜的[__用户模块__](https://github.com/XuJing-project/readme/wiki/%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D)。
 
@@ -65,7 +67,8 @@
 >虚境项目中每位用户创建的角色和世界观都不限个数。角色创建成功后，可以分享其它github用户，虚境平台创建后我们会尽力做到直接在虚境上管理角色。你在其它项目中创建的角色允许在[`fork`](https://github.com/XuJing-project/Roles-Worldviews/fork)[__XuJing-project/Roles-Worldviews__](https://github.com/XuJing-project/Roles-Worldviews)后推送到这个示例库中。当虚境上创建新项目时，可以直接将一个角色的目录复制到新项目的角色与背景目录。
 
 
-### 说一下虚境未来的用户管理。
+说一下虚境未来的用户管理。
+========
 
 * 网络空间虚拟化为艾梅设定中的地点，实化为现实世界一个地点。加密进行。
 
