@@ -62,7 +62,8 @@
 
 * 角色自助登记。角色创建好后，请在编辑__deciia/Roles-Worldviews/__下面的__README.md__文件创建角色索引信息，用一句生动的话说明角色名，角色性格，角色故事，角色世界观、创建人以及其它必要的信息，不超过120字，关键字做好加亮和链接。
 
-        我是i-am_TV，可以叫我电视人,deciia在牧电视人的故事中创造了我的形象，我喜欢别人看着我。欢迎你对我进行加工，不要怕，我是钢铁做的。
+        我是i-am_TV，可以叫我电视人,deciia在牧电视人的故事中创造了我的形象，我喜欢别人看着我。
+        欢迎你对我进行加工，不要怕，我是钢铁做的。
 
 >虚境项目中每位用户创建的角色和世界观都不限个数。角色创建成功后，可以分享其它github用户，虚境平台创建后我们会尽力做到直接在虚境上管理角色。你在其它项目中创建的角色允许在[`fork`](https://github.com/XuJing-project/Roles-Worldviews/fork)[__XuJing-project/Roles-Worldviews__](https://github.com/XuJing-project/Roles-Worldviews)后推送到这个示例库中。当虚境上创建新项目时，可以直接将一个角色的目录复制到新项目的角色与背景目录。
 
