@@ -10,7 +10,7 @@
 * 你可以选择使用[`艾梅设定书 `](/README/艾梅设定书.md)世界观 [`创建角色`](https://github.com/XuJing-project/Roles-Worldviews/new/master/README)。
 * 你也可以创建自己的世界观，[`你需要创建自己的虚拟世界的世界观吗？`](https://github.com/XuJing-project/AiMeiSettingBook/wiki/_new)
 
->你可能已经点击了上面的链接，请别着急，回退到原来的[`页面`](https://github.com/XuJing-project/Roles-Worldviews)，你需要了解一下如何在虚境创建世界观设定。
+>你可能已经点击了上面的链接，请别着急，回退到原来的页面，你需要了解一下如何在虚境创建世界观设定。
 
 * 叙述说明这是怎样一个世界。
 * 叙述世界是如何诞生的。
