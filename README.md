@@ -1,5 +1,5 @@
 * 中文版
-* English Version
+* [English Version](#English Version)
 
 ---
 
@@ -72,6 +72,7 @@
 
 -----
 
+<a name=" English Version" id=" English Version"></a>
 
 ## This is the English Version:
 
