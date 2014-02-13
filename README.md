@@ -34,7 +34,31 @@
 >现在我们了解了，参与者是以角色的身份参与到游戏开发过程中的，虽然目前的版本仍然是通过github用户参与的但未来的虚境平台会直接使用角色代替用户进行虚境项目的开发、虚境的探索，即玩家用户也是开发者。
 
 * 使用github的fork功能，在[__XuJing-project / Roles-Worldviews__](https://github.com/deciia/Roles-Worldviews)资源库主页点击[`fork`](https://github.com/XuJing-project/AiMeiSettingBook/fork)克隆一份角色与背景资源库。选择其中一个世界观建立新角色，将创建好的角色提交至角色与背景资源库。
-* 进入自己帐户的Roles-Worldviews的__Roles分支树__ 如__https://github.com/deciia/Roles-Worldviews/tree/master/Roles__，点击`+`号新建角色，然后看到 __Roles-Worldviews / Roles`Name your files ...`or cancel__，在Name your files所在处建立所需要的文件。
+
+* 进入自己帐户的Roles-Worldviews的Roles分支树如 __https://github.com/deciia/Roles-Worldviews/tree/master/Roles__，点击`+`号新建角色，然后看到 __Roles-Worldviews / Roles`Name your files ...`or cancel__，在Name your files所在处建立所需要的文件。
+
+* 文件取名规则为`角色名/文件名.文件格式`，角色的信息、角色相关的文件列表、创建者信息、角色所在的世界观等都通过一个README.md建立，因此首先需要创这个文件。
+ 
+        __角色基本信息__
+        * 角色名：i-am-TV
+        * 角色性格：给爱看电视的人看。
+        * 角色故事：全在肚里
+        __角色所在世界观__
+        * 世界观1：牧电视人的故事
+        * 世界观2：看家的精灵
+        __角色文件列表__
+        * README.md
+        * i-am-TV.png
+        * i-am-TV.doc
+        * 电视.psd
+        * i-am-TV.obj
+        * i-am-TV.wav
+        __角色创建人信息__
+        * 创建者：deciia
+        * 联系方式：deciia@qq.com
+
+>角色相关的文件由不同的协作者自由添加。需求设计一款在线工具，兼容所有角色相关文件格式的显示，并将们打包成两种文件格式，第一种是角色.rinfo作为角色的信息文件用于软件加载，第二种是角色.html，是使用html5代码编写的名片，可以直接在线展示。
+
 * 角色自助登记
 
 
