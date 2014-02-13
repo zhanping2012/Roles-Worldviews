@@ -31,7 +31,7 @@
 >现在我们了解了，参与者是以角色的身份参与到游戏开发过程中的，虽然目前的版本仍然是通过github用户参与的但未来的虚境平台会直接使用角色代替用户进行虚境项目的开发、虚境的探索，即玩家用户也是开发者。
 
 * 使用github的fork功能，在[`AiMeiSettingBook`](https://github.com/XuJing-project/AiMeiSettingBook)资源库主页点击[`fork`](https://github.com/XuJing-project/AiMeiSettingBook/fork)克隆一份角色与背景资源库。选择其中一个世界观建立新角色，将创建好的角色提交至角色与背景资源库。
-* 进入Roles-Worldviews的[`Roles分支树`](https://github.com/XuJing-project/Roles-Worldviews/tree/master/Roles)，点击[`+`](https://github.com/XuJing-project/Roles-Worldviews/new/master/Roles)号新建角色，然后看到 <u>Roles-Worldviews / Roles`角色名/readme.md`or cancel </u>
+* 进入Roles-Worldviews的[`Roles分支树`](https://github.com/XuJing-project/Roles-Worldviews/tree/master/Roles)，点击[`+`](https://github.com/XuJing-project/Roles-Worldviews/new/master/Roles)号新建角色，然后看到 **Roles-Worldviews / Roles`角色名/readme.md`or cancel **
 * 角色自助登记
 
 
