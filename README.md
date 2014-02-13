@@ -13,7 +13,7 @@ Ai Mei Setting Book
 
 ### 你需要选择一个世界观。
 
-* 你可以选择使用[`艾梅设定书 `](艾梅设定书)世界观 [`创建角色`](12314)。
+* 你可以选择使用[`艾梅设定书 `](/README/艾梅设定书.md)世界观 [`创建角色`](12314)。
 * 你也可以创建自己的世界观，[`你需要创建自己的虚拟世界的世界观吗？`](https://github.com/XuJing-project/AiMeiSettingBook/wiki/_new)
 
 >你可能已经点击了上面的链接，请别着急，回退到原来的[`页面`](https://github.com/XuJing-project/AiMeiSettingBook/wiki)，你需要了解一下如何在虚境创建世界观设定。
